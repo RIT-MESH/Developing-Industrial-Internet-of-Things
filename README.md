@@ -36,4 +36,9 @@ This is part 3 of the specialization. In this course students will learn :
   * How to promote technical ideas within a company
   * What can be learned from studying engineering failures
 
-    
+    <p align="center"><img src="https://github.com/RIT-MESH/Developing-Industrial-Internet-of-Things/blob/main/Developing%20Industrial%20Internet%20of%20Things%20Specialization%20certificate.png?raw=true"alt="Sublime's custom image"/>
+ </p>
+
+  ## For more detail about certificate [Click here](https://www.coursera.org/account/accomplishments/specialization/GEG28XTNV272) 
+
+
